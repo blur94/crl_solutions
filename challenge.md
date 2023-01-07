@@ -7,7 +7,7 @@
 ### Solution
 
 #### Problem 1
-Limiting the total width of the child container to about half was done by setting **.intro-content** class to a width of 50%
+Limiting the total width of the child container to about half was done by setting **.intro** class to a width of 50%
 ```css
 .intro-content {
     width: 50%;
@@ -16,4 +16,3 @@ Limiting the total width of the child container to about half was done by settin
 
 #### Problem 2
 Stop the text from overflowing by not giving the height a fixed size. Hence, the original height of 300px was commented out.
-
